@@ -32,7 +32,7 @@ This mobile app is powered by an open platform built in Flutter/Dart and support
 ### - Backend options:
 - *Golang API* [Link to repo](https://github.com/zackmwangi/foodygoo_api_golang)
 - *PHP API(Slim framework)* [Link to repo](https://github.com/zackmwangi/foodygoo_api_php_slim)
-- *PHP API(Laravelframework)* [Link to repo](https://github.com/zackmwangi/foodygoo_api_php_laravel)
+- *PHP API(Laravel framework)* [Link to repo](https://github.com/zackmwangi/foodygoo_api_php_laravel)
 - *Python API(Work in progress)*[No link yet]
 
 More backend options will be added as they are developed and tested.
@@ -112,7 +112,7 @@ Flutter/Dart gives us an excellent platform to build them a beautiful and functi
 
 ### - *Advanced State management*
     - Bloc
-    - FlutterBloc
+    - Flutter Bloc
     - Hydrated Bloc
     - SetState()
     - Events, states, and Bloc troubleshooting
@@ -134,6 +134,7 @@ Flutter/Dart gives us an excellent platform to build them a beautiful and functi
 
 ### - *Third party API integrations*
     - Maps - Google Maps 
+    - Auth - Firebase
 
 ### - *Background task processing*
     - Workmanager()
